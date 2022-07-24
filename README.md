@@ -1,0 +1,1 @@
+# .net-6.0-Ef-Core-Dapper-Crud-Api-PatikaCase2-
